@@ -1,13 +1,9 @@
 // ==UserScript==
 // @name SNOL Helper 2.21 Evaluation Extra
-// @namespace none
-// @version 2.21
-// @description
 // @include      *org/index.php/observation/c_followup_disease/getReportOPD*
 // @exclude      *org/*preview*
 // @exclude      *org/*print*
 // @exclude      *org/index.php/observation/c_surgical_medicine/print_surgical_medicine*
-// @grant none
 // ==/UserScript==
 
 (function() {
